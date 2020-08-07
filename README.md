@@ -27,7 +27,7 @@ Ordered
 Format: ![이미지 alt명](url 링크) 
 
 두번째 방법 
-<a href="#"><img src="https://github.com/huniran/freechart/images/flower.jpg" width="400px" alt="sample image"></a> 
+<a href="#"><img src="https://github.com/huniran/freechart/images/flower.jpg" width="60px" alt="sample image"></a> 
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
   
 [GitHub](http://github.com "깃허브")
@@ -76,3 +76,16 @@ ___
 *literal asterisks* 
 __＼*＼*Text＼*＼*__ 
 _＼_Tom＼__
+
+
+GitHub supports emoji! 
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat:
+
+
+작성 예시 
+<https://img.shields.io/badge/license-mit-green.svg"> 
+https://img.shields.io/badge/--.svg 
+
+APM: /apm/l/:packageName.svg 
+AUR license: /aur/license/:packageName.svg
